@@ -21,4 +21,4 @@ $$
 - $C_{ij}^r$ is the number of contacts reported by respondent r in age group i with a contact in age group j
 - $N_{j}$ is the number of contacts in age group j
 
-The folder case_matrices contains these matrices for cases, and the folder HHM_matrices contains these matrices for household members. 
+The folder [case_matrices](https://github.com/KayokoShioda/SickMix/tree/main/contact%20matrices/case_matrices) contains these matrices for cases, and the folder [HHM_matrices](https://github.com/KayokoShioda/SickMix/tree/main/contact%20matrices/HHM_matrices) contains these matrices for household members. 
