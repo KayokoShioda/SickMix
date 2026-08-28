@@ -30,10 +30,10 @@ library(ggrepel)
 
 # Load data 
 sim_population <- read_xlsx("sim_population.xlsx")
-contact_matrix_acute <- as.matrix(read_xlsx('contact_matrix_acute.xlsx'))
-contact_matrix_late <- as.matrix(read_xlsx('contact_matrix_late.xlsx'))
-contact_matrix_naive <- as.matrix(read_xlsx('contact_matrix_naive.xlsx'))
-contact_matrix_home <- as.matrix(read_xlsx('contact_matrix_home.xlsx'))
+contact_matrix_acute <- as.matrix(read_xlsx('cases_index_matrix.xlsx'))
+contact_matrix_late <- as.matrix(read_xlsx('cases_1week_matrix.xlsx'))
+contact_matrix_naive <- as.matrix(read_xlsx('cases_2week_matrix.xlsx'))
+contact_matrix_home <- as.matrix(read_xlsx('cases_index_home_matrix.xlsx'))
 
 # Data manipulation
 ## Add rownames to all matrices, if you haven't already 
