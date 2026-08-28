@@ -1,6 +1,6 @@
 # **Contact Matrices - Household Members**
 
-The contact calculation process is described here. 
+The contact calculation process is described [here](https://github.com/KayokoShioda/SickMix/blob/main/contact%20matrices/README.md). 
 
 Each file contains an age-structured matrix corresponding to mean contacts reported by household members of acute gastroenteritis (AGE) and 
 acute respiratory infection (ARI) cases for two survey time points: index survey (corresponding to the AGE/ARI case’s most sick day) and 1-week follow-up survey.  
