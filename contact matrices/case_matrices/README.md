@@ -1,6 +1,6 @@
 # **Contact Matrices - Cases**
 
-The contact calculation process is described here. 
+The contact calculation process is described [here](https://github.com/KayokoShioda/SickMix/blob/main/contact%20matrices/README.md). 
 
 Each file contains an age-structured matrix corresponding to weighted mean contacts among acute gastroenteritis and acute respiratory infection cases 
 for three survey time points: index survey (most sick day), 1-week follow-up survey, 2-week follow-up survey. 
