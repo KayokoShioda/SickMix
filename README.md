@@ -15,7 +15,7 @@ Code is provided for the outbreak modeling (in R).
 ## Publications 
 
 The preprint describing the data collection methods, estimation of contact matrices, and outbreak modeling: 
-Ibiebele J.C., Tuli A., Lopes G., Lombard G., Shapiro A., Donald J., Schmidt M.A., Litvinova M., Chen D., Jenness S.M., Lopman B.A., Shioda K. ***SickMix: Temporal Changes in Social Contact Patterns among People with Acute Infection and Their Close Contacts.*** medRxiv 2026.09.21.26362162; doi: https://doi.org/10.64898/2026.09.21.26362162 (available [here](https://www.medrxiv.org/content/10.64898/2026.09.21.26362162v1) 
+Ibiebele J.C., Tuli A., Lopes G., Lombard G., Shapiro A., Donald J., Schmidt M.A., Litvinova M., Chen D., Jenness S.M., Lopman B.A., Shioda K. ***SickMix: Temporal Changes in Social Contact Patterns among People with Acute Infection and Their Close Contacts.*** medRxiv 2026.09.21.26362162; doi: https://doi.org/10.64898/2026.09.21.26362162 (available [here](https://www.medrxiv.org/content/10.64898/2026.09.21.26362162v1))
 
 ## Citation 
 ```
