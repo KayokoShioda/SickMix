@@ -8,13 +8,9 @@ The SickMix study was a prospective longitudinal study of medically attended acu
 
 This repository contains weighted, age-structured contact matrices for AGE and ARI cases who participated in SickMix, along with unweighted contact matrices for participating household members. An explanation of each matrix, along with the calculation process are included. 
 
-### [Code](https://github.com/KayokoShioda/SickMix/tree/main/code) 
-
-Code is provided for the outbreak modeling (in R). 
-
 ## Publications 
 
-The preprint describing the data collection methods, estimation of contact matrices, and outbreak modeling: 
+The preprint describing the data collection methods and estimation of contact matrices: 
 Ibiebele J.C., Tuli A., Lopes G., Lombard G., Shapiro A., Donald J., Schmidt M.A., Litvinova M., Chen D., Jenness S.M., Lopman B.A., Shioda K. ***SickMix: Temporal Changes in Social Contact Patterns among People with Acute Infection and Their Close Contacts.*** medRxiv 2026.09.21.26362162; doi: https://doi.org/10.64898/2026.09.21.26362162 (available [here](https://www.medrxiv.org/content/10.64898/2026.09.21.26362162v1))
 
 ## Citation 
